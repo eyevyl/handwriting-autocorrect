@@ -12,7 +12,6 @@ data/processed/
 
 outputs/
 !outputs/.gitkeep
-
 *.goodnotes
 
 .env
