@@ -1,1 +1,3 @@
+# Handwriting Autocorrect
+
 Existing handwriting autocorrection tools can imitate a user’s general handwriting style, but corrections often look unnatural in the specific context where they are inserted. This is because handwriting is subject to change. The same writer may write neatly in some situations while writing in a messier and more rushed manner in others. The goal is to explore whether conditioning generation on nearby handwriting—capturing local changes in neatness, spacing, slant, and size—can produce more seamless, personalized corrections.
